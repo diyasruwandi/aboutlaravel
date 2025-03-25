@@ -1,5 +1,5 @@
-<div class="row align-items-center justify-center flex">
-    <div class="card" style="width: 18rem;">
+<div class="row align-items-center flex justify-center m-4 gap-3">
+  <div class="card" style="width: 18rem;">
   <img src="https://images.tokopedia.net/img/cache/700/VqbcmM/2023/4/10/375e3fe9-1cb6-40d3-b534-b587f06bf045.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Air Max Terrascape</h5>
