@@ -11,7 +11,7 @@
         alertDiv.className = "alert alert-warning alert-dismissible fade show";
         alertDiv.setAttribute("role", "alert");
         alertDiv.innerHTML = `
-            <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+            <strong>Selamat Datang di Toko Mas Diyas</strong> Temukan sepatu impianmu disini
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         `;
         document.getElementById("alertContainer").appendChild(alertDiv);
